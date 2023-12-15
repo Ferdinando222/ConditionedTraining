@@ -3,120 +3,120 @@
 	"Data Sets":[
 {
 	"Parameters": [ 0.0, 0.0 ],
-	"TrainingClean": "/kaggle/input/recordings/BigMuff/Training/Clean/clean_signal.wav",
-	"TrainingTarget": "/kaggle/input/recordings/BigMuff/Training/Dirty/2-1-1.wav",
-	"TestClean": "/kaggle/input/recordings/BigMuff/Test/Clean/clean_signal.wav",
-	"TestTarget": "/kaggle/input/recordings/BigMuff/Test/Dirty/2-1-1.wav"
+	"TrainingClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Clean/clean_signal.wav",
+	"TrainingTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Dirty/2-1-1.wav",
+	"TestClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Clean/clean_signal.wav",
+	"TestTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Dirty/2-1-1.wav"
 },
 {
 	"Parameters": [ 0.0, 0.3 ],
-	"TrainingClean": "/kaggle/input/recordings/BigMuff/Training/Clean/clean_signal.wav",
-	"TrainingTarget": "/kaggle/input/recordings/BigMuff/Training/Dirty/2-1-2.wav",
-	"TestClean": "/kaggle/input/recordings/BigMuff/Test/Clean/clean_signal.wav",
-	"TestTarget": "/kaggle/input/recordings/BigMuff/Test/Dirty/2-1-2.wav"
+	"TrainingClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Clean/clean_signal.wav",
+	"TrainingTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Dirty/2-1-2.wav",
+	"TestClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Clean/clean_signal.wav",
+	"TestTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Dirty/2-1-2.wav"
 },
 {
 	"Parameters": [ 0.0, 0.7 ],
-	"TrainingClean": "/kaggle/input/recordings/BigMuff/Training/Clean/clean_signal.wav",
-	"TrainingTarget": "/kaggle/input/recordings/BigMuff/Training/Dirty/2-1-3.wav",
-	"TestClean": "/kaggle/input/recordings/BigMuff/Test/Clean/clean_signal.wav",
-	"TestTarget": "/kaggle/input/recordings/BigMuff/Test/Dirty/2-1-3.wav"
+	"TrainingClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Clean/clean_signal.wav",
+	"TrainingTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Dirty/2-1-3.wav",
+	"TestClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Clean/clean_signal.wav",
+	"TestTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Dirty/2-1-3.wav"
 },
 
 {
 	"Parameters": [ 0.0, 1.00 ],
-	"TrainingClean": "/kaggle/input/recordings/BigMuff/Training/Clean/clean_signal.wav",
-	"TrainingTarget": "/kaggle/input/recordings/BigMuff/Training/Dirty/2-1-4.wav",
-	"TestClean": "/kaggle/input/recordings/BigMuff/Test/Clean/clean_signal.wav",
-	"TestTarget": "/kaggle/input/recordings/BigMuff/Test/Dirty/2-1-4.wav"
+	"TrainingClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Clean/clean_signal.wav",
+	"TrainingTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Dirty/2-1-4.wav",
+	"TestClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Clean/clean_signal.wav",
+	"TestTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Dirty/2-1-4.wav"
 },
 {
 	"Parameters": [ 0.3, 0.0 ],
-	"TrainingClean": "/kaggle/input/recordings/BigMuff/Training/Clean/clean_signal.wav",
-	"TrainingTarget": "/kaggle/input/recordings/BigMuff/Training/Dirty/2-2-1.wav",
-	"TestClean": "/kaggle/input/recordings/BigMuff/Test/Clean/clean_signal.wav",
-	"TestTarget": "/kaggle/input/recordings/BigMuff/Test/Dirty/2-2-1.wav"
+	"TrainingClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Clean/clean_signal.wav",
+	"TrainingTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Dirty/2-2-1.wav",
+	"TestClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Clean/clean_signal.wav",
+	"TestTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Dirty/2-2-1.wav"
 },
 {
 	"Parameters": [ 0.3, 0.3 ],
-	"TrainingClean": "/kaggle/input/recordings/BigMuff/Training/Clean/clean_signal.wav",
-	"TrainingTarget": "/kaggle/input/recordings/BigMuff/Training/Dirty/2-2-2.wav",
-	"TestClean": "/kaggle/input/recordings/BigMuff/Test/Clean/clean_signal.wav",
-	"TestTarget": "/kaggle/input/recordings/BigMuff/Test/Dirty/2-2-2.wav"
+	"TrainingClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Clean/clean_signal.wav",
+	"TrainingTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Dirty/2-2-2.wav",
+	"TestClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Clean/clean_signal.wav",
+	"TestTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Dirty/2-2-2.wav"
 },
 
 {
 	"Parameters": [ 0.3, 0.7 ],
-	"TrainingClean": "/kaggle/input/recordings/BigMuff/Training/Clean/clean_signal.wav",
-	"TrainingTarget": "/kaggle/input/recordings/BigMuff/Training/Dirty/2-2-3.wav",
-	"TestClean": "/kaggle/input/recordings/BigMuff/Test/Clean/clean_signal.wav",
-	"TestTarget": "/kaggle/input/recordings/BigMuff/Test/Dirty/2-2-3.wav"
+	"TrainingClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Clean/clean_signal.wav",
+	"TrainingTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Dirty/2-2-3.wav",
+	"TestClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Clean/clean_signal.wav",
+	"TestTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Dirty/2-2-3.wav"
 },
 {
 	"Parameters": [ 0.3, 1.00 ],
-	"TrainingClean": "/kaggle/input/recordings/BigMuff/Training/Clean/clean_signal.wav",
-	"TrainingTarget": "/kaggle/input/recordings/BigMuff/Training/Dirty/2-2-4.wav",
-	"TestClean": "/kaggle/input/recordings/BigMuff/Test/Clean/clean_signal.wav",
-	"TestTarget": "/kaggle/input/recordings/BigMuff/Test/Dirty/2-2-4.wav"
+	"TrainingClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Clean/clean_signal.wav",
+	"TrainingTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Dirty/2-2-4.wav",
+	"TestClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Clean/clean_signal.wav",
+	"TestTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Dirty/2-2-4.wav"
 },
 {
 	"Parameters": [ 0.7, 0.0 ],
-	"TrainingClean": "/kaggle/input/recordings/BigMuff/Training/Clean/clean_signal.wav",
-	"TrainingTarget": "/kaggle/input/recordings/BigMuff/Training/Dirty/2-3-1.wav",
-	"TestClean": "/kaggle/input/recordings/BigMuff/Test/Clean/clean_signal.wav",
-	"TestTarget": "/kaggle/input/recordings/BigMuff/Test/Dirty/2-3-1.wav"
+	"TrainingClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Clean/clean_signal.wav",
+	"TrainingTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Dirty/2-3-1.wav",
+	"TestClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Clean/clean_signal.wav",
+	"TestTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Dirty/2-3-1.wav"
 },
 {
 	"Parameters": [ 0.7, 0.3 ],
-	"TrainingClean": "/kaggle/input/recordings/BigMuff/Training/Clean/clean_signal.wav",
-	"TrainingTarget": "/kaggle/input/recordings/BigMuff/Training/Dirty/2-3-2.wav",
-	"TestClean": "/kaggle/input/recordings/BigMuff/Test/Clean/clean_signal.wav",
-	"TestTarget": "/kaggle/input/recordings/BigMuff/Test/Dirty/2-3-2.wav"
+	"TrainingClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Clean/clean_signal.wav",
+	"TrainingTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Dirty/2-3-2.wav",
+	"TestClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Clean/clean_signal.wav",
+	"TestTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Dirty/2-3-2.wav"
 },
 {
 	"Parameters": [ 0.7, 0.7 ],
-	"TrainingClean": "/kaggle/input/recordings/BigMuff/Training/Clean/clean_signal.wav",
-	"TrainingTarget": "/kaggle/input/recordings/BigMuff/Training/Dirty/2-3-3.wav",
-	"TestClean": "/kaggle/input/recordings/BigMuff/Test/Clean/clean_signal.wav",
-	"TestTarget": "/kaggle/input/recordings/BigMuff/Test/Dirty/2-3-3.wav"
+	"TrainingClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Clean/clean_signal.wav",
+	"TrainingTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Dirty/2-3-3.wav",
+	"TestClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Clean/clean_signal.wav",
+	"TestTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Dirty/2-3-3.wav"
 },
 
 {
 	"Parameters": [ 0.7, 1.00 ],
-	"TrainingClean": "/kaggle/input/recordings/BigMuff/Training/Clean/clean_signal.wav",
-	"TrainingTarget": "/kaggle/input/recordings/BigMuff/Training/Dirty/2-3-4.wav",
-	"TestClean": "/kaggle/input/recordings/BigMuff/Test/Clean/clean_signal.wav",
-	"TestTarget": "/kaggle/input/recordings/BigMuff/Test/Dirty/2-3-4.wav"
+	"TrainingClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Clean/clean_signal.wav",
+	"TrainingTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Dirty/2-3-4.wav",
+	"TestClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Clean/clean_signal.wav",
+	"TestTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Dirty/2-3-4.wav"
 },
 
 {
 	"Parameters": [ 1.00, 0.0 ],
-	"TrainingClean": "/kaggle/input/recordings/BigMuff/Training/Clean/clean_signal.wav",
-	"TrainingTarget": "/kaggle/input/recordings/BigMuff/Training/Dirty/2-4-1.wav",
-	"TestClean": "/kaggle/input/recordings/BigMuff/Test/Clean/clean_signal.wav",
-	"TestTarget": "/kaggle/input/recordings/BigMuff/Test/Dirty/2-4-1.wav"
+	"TrainingClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Clean/clean_signal.wav",
+	"TrainingTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Dirty/2-4-1.wav",
+	"TestClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Clean/clean_signal.wav",
+	"TestTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Dirty/2-4-1.wav"
 },
 {
 	"Parameters": [ 1.00, 0.3 ],
-	"TrainingClean": "/kaggle/input/recordings/BigMuff/Training/Clean/clean_signal.wav",
-	"TrainingTarget": "/kaggle/input/recordings/BigMuff/Training/Dirty/2-4-2.wav",
-	"TestClean": "/kaggle/input/recordings/BigMuff/Test/Clean/clean_signal.wav",
-	"TestTarget": "/kaggle/input/recordings/BigMuff/Test/Dirty/2-4-2.wav"
+	"TrainingClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Clean/clean_signal.wav",
+	"TrainingTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Dirty/2-4-2.wav",
+	"TestClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Clean/clean_signal.wav",
+	"TestTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Dirty/2-4-2.wav"
 },
 {
 	"Parameters": [ 1.00, 0.7 ],
-	"TrainingClean": "/kaggle/input/recordings/BigMuff/Training/Clean/clean_signal.wav",
-	"TrainingTarget": "/kaggle/input/recordings/BigMuff/Training/Dirty/2-4-3.wav",
-	"TestClean": "/kaggle/input/recordings/BigMuff/Test/Clean/clean_signal.wav",
-	"TestTarget": "/kaggle/input/recordings/BigMuff/Test/Dirty/2-4-3.wav"
+	"TrainingClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Clean/clean_signal.wav",
+	"TrainingTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Dirty/2-4-3.wav",
+	"TestClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Clean/clean_signal.wav",
+	"TestTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Dirty/2-4-3.wav"
 },
 
 {
 	"Parameters": [ 1.00, 1.00 ],
-	"TrainingClean": "/kaggle/input/recordings/BigMuff/Training/Clean/clean_signal.wav",
-	"TrainingTarget": "/kaggle/input/recordings/BigMuff/Training/Dirty/2-4-4.wav",
-	"TestClean": "/kaggle/input/recordings/BigMuff/Test/Clean/clean_signal.wav",
-	"TestTarget": "/kaggle/input/recordings/BigMuff/Test/Dirty/2-4-4.wav"
+	"TrainingClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Clean/clean_signal.wav",
+	"TrainingTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Training/Dirty/2-4-4.wav",
+	"TestClean": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Clean/clean_signal.wav",
+	"TestTarget": "/kaggle/input/d/ferdinando20//recordings/BigMuff/Test/Dirty/2-4-4.wav"
 }
 ]
 }
