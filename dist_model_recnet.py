@@ -101,12 +101,12 @@ def main(args):
 
     print(np_data)
 
-    dataset.load_file(os.path.join('train', args.file_name+'-input.wav'), 'train')
+    dataset.load_file(os.path.join('/kaggle/working/ConditionedTraining/Data/train', args.file_name), 'train')
 
 
     dataset.create_subset('val')
     print(os.path.join('val', args.file_name))
-    dataset.load_file(os.path.join('val', args.file_name), 'val')
+    dataset.load_file(os.path.join('/kaggle/working/ConditionedTraining/Data/val', args.file_name), 'val')
 
         # If training is restarting, this will ensure the previously elapsed training time is added to the total
     init_time = time.time() - start_time + train_track['total_time']*3600
