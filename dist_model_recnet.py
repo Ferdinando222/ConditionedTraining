@@ -97,7 +97,7 @@ def main(args):
 
     print(os.path.join('train', args.file_name))
 
-    np_data = wavfile.read('/kaggle/working/ConditionedTraining/Data/'+args.file_name+'-input.wav')
+    np_data = wavfile.read('/kaggle/working/ConditionedTraining/Data/train/'+args.file_name+'-input.wav')
 
     print(np_data)
 
