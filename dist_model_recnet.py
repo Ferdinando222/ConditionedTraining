@@ -12,7 +12,7 @@ import time
 import os
 import csv
 from scipy.io.wavfile import write
-
+from scipy.io import wavfile
 
 # This function takes a directory as argument, looks for an existing model file called 'model.json' and loads a network
 # from it, after checking the network in 'model.json' matches the architecture described in args. If no model file is
@@ -97,6 +97,10 @@ def main(args):
 
     print(os.path.join('train', args.file_name))
     dataset.load_file(os.path.join('train', args.file_name), 'train')
+
+    np_data = wavfile.read('../Data/train/'+args.file_name+'-input.wav')
+
+    print(np_data)
 
     dataset.create_subset('val')
     print(os.path.join('val', args.file_name))
