@@ -94,9 +94,12 @@ def main(args):
     dataset = CAMLdataset.DataSet(data_dir='Data')
 
     dataset.create_subset('train', frame_len=22050)
+
+    print(os.path.join('train', args.file_name))
     dataset.load_file(os.path.join('train', args.file_name), 'train')
 
     dataset.create_subset('val')
+    print(os.path.join('val', args.file_name))
     dataset.load_file(os.path.join('val', args.file_name), 'val')
 
         # If training is restarting, this will ensure the previously elapsed training time is added to the total
