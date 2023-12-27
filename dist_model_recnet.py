@@ -96,11 +96,13 @@ def main(args):
     dataset.create_subset('train', frame_len=22050)
 
     print(os.path.join('train', args.file_name))
-    dataset.load_file(os.path.join('train', args.file_name), 'train')
 
     np_data = wavfile.read('../Data/train/'+args.file_name+'-input.wav')
 
     print(np_data)
+
+    dataset.load_file(os.path.join('train', args.file_name), 'train')
+
 
     dataset.create_subset('val')
     print(os.path.join('val', args.file_name))
