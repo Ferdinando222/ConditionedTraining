@@ -1,1 +1,1 @@
-{"hidden_size": 32, "unit_type": "LSTM", "loss_fcns": {"ESR": 0.75, "DC": 0.25}, "pre_filt": "None", "device": "new_muff", "file_name": "new_muff"}
+{"hidden_size": 32, "unit_type": "LSTM", "loss_fcns": {"ESR": 0.75, "DC": 0.25}, "pre_filt": "None", "device": "new_muff_1", "file_name": "new_muff_1"}
